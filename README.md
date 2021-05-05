@@ -1,3 +1,3 @@
-# **_👋Hi there, this is Qwekem482_👋~**
+# **_👋Hi there, this is Qwekem482_👋**
 ###🌱Beginner in coding & programming🌱
-###       🌱Beginner in life🌱
+###_______🌱Beginner in life🌱_________
