@@ -1,10 +1,14 @@
-# 💫It's nice to have you to visit my profile:
+# 💫It's nice to have you to visit my profile
 👋I'm Qwekem482👋
 
+
 📘Currently study in university📗
+
 📈Trying to perfect myself📈
 
+
 🌱Beginner in coding & programming🌱
+
 🌱Beginner in life🌱
 
 ## 🌐Socials
