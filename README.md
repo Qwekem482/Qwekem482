@@ -1,4 +1,6 @@
-# 💫About Me :
+# 💫It's nice to have you to visit my profile:
+👋I'm Qwekem482👋
+
 📘Currently study in university📗
 📈Trying to perfect myself📈
 
