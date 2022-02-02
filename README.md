@@ -1,9 +1,11 @@
 # 💫It's nice to have you to visit my profile
 👋I'm Qwekem482👋
+
 --------------------------------------
 📘Currently study in university📗
 
-📈Trying to perfect myself📈
+📈Trying to complete myself📈
+
 --------------------------------------
 🌱Beginner in coding & programming🌱
 
@@ -27,5 +29,6 @@
 
 ### ✍️Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
 </p>
+
