@@ -5,6 +5,8 @@
 
 📈Trying to complete myself📈
 
+📈Finding Unity Development Internship📈
+
 🌱Beginner in coding & programming🌱
 
 🌱Beginner in life🌱
