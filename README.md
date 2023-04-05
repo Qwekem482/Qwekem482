@@ -5,7 +5,7 @@
 
 📈Trying to complete myself📈
 
-📈Finding Game Development Internship📈
+📈Being Game Development Internship📈
 
 🌱Beginner in coding & programming🌱
 
