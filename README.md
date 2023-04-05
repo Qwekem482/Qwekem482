@@ -27,8 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwekem482&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
-### ✍️Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
-</p>
-
