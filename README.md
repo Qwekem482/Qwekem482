@@ -1,29 +1,16 @@
-# 💫It's nice to have you to visit my profile
-👋I'm Qwekem482👋
+<h1 align="center">Hi 👋, I'm Qwekem482</h1>
+<h3 align="center">An Unity Developer from Vietnam</h3>
 
-📘Currently study in university📗
+- 🌱 I’m currently learning **Unity**
 
-📈Trying to complete myself📈
+- 📘 I'm currently study in university📗
 
-📈Being Game Development Internship📈
+- 📈 I'm trying to become a game developer
 
-🌱Beginner in coding & programming🌱
+- 📫 How to reach me **Qwekem4802@gmail.com**
 
-🌱Beginner in life🌱
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Qwekem482) 
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Qwekem482)
-
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊GitHub Stats :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qwekem482&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qwekem482&theme=blueberry&hide_border=false">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwekem482&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
-
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
