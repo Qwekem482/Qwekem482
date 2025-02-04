@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 📘 I'm currently ưaiting for university graduation📗
+- 📘 I'm currently waiting for university graduation📗
 
 - 📈 I'm trying to become a junior unity developer
 
