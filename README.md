@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 📘 I'm currently study in university📗
+- 📘 I'm currently ưaiting for university graduation📗
 
-- 📈 I'm trying to become a game developer
-
-- 📫 How to reach me **Qwekem4802@gmail.com**
+- 📈 I'm trying to become a junior unity developer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Qwekem482) 
