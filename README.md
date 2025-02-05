@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qwekem482</h1>
 <h3 align="center">An Unity Developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently exploring **Unity**
 
 - 📘 I'm currently waiting for university graduation📗
 
